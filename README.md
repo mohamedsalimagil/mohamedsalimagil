@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Mohamed Salim Agil 👋
 
-<!--
-**mohamedsalimagil/mohamedsalimagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an upcoming Software Engineer currently building my skills in **Python, JavaScript, and web development**. I love creating practical projects that solve real problems — one step at a time.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+### 🩺 Blood Glucose Tracker
+A web app designed to help users log and track their blood glucose levels.  
+🔹 Built with HTML, CSS, and JavaScript  
+🔹 Uses a local `tips.json` to simulate an API  
+🔹 Goal: Expand it into a full health tracking platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Repo: [Blood Glucose Tracker](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
+
+---
+
+## 🌱 Currently Learning
+- Python (OOP, File I/O, modules)
+- JavaScript (DOM, functions, arrays, loops)
+- Frontend fundamentals
+- Git & GitHub workflow
+
+---
+
+## 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsalimagil&show_icons=true&theme=default)
+
+---
+
+## 📌 What I'm Working Toward
+- Building more portfolio-ready apps
+- Improving code structure and documentation
+- Learning React after mastering JavaScript fundamentals
+
+---
+
+## 📫 Let's Connect
+I'm always learning and open to collaboration!  
+You can reach me directly here on GitHub.
+
+---
+⭐️ More projects coming soon — stay tuned!
