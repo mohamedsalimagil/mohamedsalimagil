@@ -41,8 +41,15 @@ A Python-based CLI app that helps people with diabetes log, review, and update b
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedsalimagil&theme=default)
+### 📈 GitHub Stats  
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsalimagil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedsalimagil&hide_border=true)
+
+### 🧠 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsalimagil&layout=compact&hide_border=true)
+
 
 
 ---
