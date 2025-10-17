@@ -42,7 +42,8 @@ A Python-based CLI app that helps people with diabetes log, review, and update b
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsalimagil&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedsalimagil&theme=default)
+
 
 ---
 
