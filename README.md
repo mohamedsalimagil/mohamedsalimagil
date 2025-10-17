@@ -2,14 +2,24 @@
 
 I'm an upcoming Software Engineer currently building my skills in **Python, JavaScript,React and web development**. I love creating practical projects that solve real problems — one step at a time.
 
-## 🚀 Featured Project
-### 🩺 Blood Glucose Tracker
+## 🚀 Featured Projects
+
+### 🩺 Blood Glucose Tracker (Web App)
 A web app designed to help users log and track their blood glucose levels.  
 🔹 Built with HTML, CSS, and JavaScript  
 🔹 Uses a local `tips.json` to simulate an API  
-🔹 Goal: Expand it into a full health tracking platform
-
+🔹 Goal: Expand into a full health tracking platform  
 🔗 Repo: [Blood Glucose Tracker](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
+
+---
+
+### 🐍 Blood Glucose Tracker (Python CLI)
+A Python-based CLI app that helps people with diabetes log, review, and update blood glucose levels.  
+🔹 Modular structure  
+🔹 Persistent storage  
+🔹 Lightweight and beginner-friendly  
+🔗 Repo: [blood_glucose_tracker](https://github.com/mohamedsalimagil/blood_glucose_tracker)
+
 
 ---
 
