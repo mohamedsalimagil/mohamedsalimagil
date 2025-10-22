@@ -12,7 +12,14 @@ A web app designed to help users log and track their blood glucose levels.
 🔗 Repo: [Blood Glucose Tracker](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
 
 ---
+### 📝 [TaskZilla Lite](https://github.com/mohamedsalimagil/TaskZilla)
+A lightweight task management app that helps users create, organize, update, and remove tasks with ease.  
+🔹 **Live Demo:** [TaskZilla Lite on GitHub Pages](https://mohamedsalimagil.github.io/TaskZilla/)  
+🔹 Built with **HTML, CSS, JavaScript, JSON Server, Node.js, and Render**  
+🔹 Features task creation, editing, deletion, sorting, and motivational quotes fetched via a secure API  
+🔹 Works both **online (Render backend)** and **locally** for developers  
 
+---
 ### 🐍 Blood Glucose Tracker (Python CLI)
 A Python-based CLI app that helps people with diabetes log, review, and update blood glucose levels.  
 🔹 Modular structure  
