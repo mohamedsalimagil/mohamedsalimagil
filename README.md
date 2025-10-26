@@ -70,7 +70,7 @@ A Python-based CLI app that helps people with diabetes log, review, and update b
 
 ## 📫 Let's Connect
 I'm always learning and open to collaboration!  
-You can reach me directly here on GitHub.
+You can reach me directly here mohamedsalimagil.dev@gmail.com
 
 ---
 ⭐️ More projects coming soon — stay tuned!
