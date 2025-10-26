@@ -2,7 +2,7 @@
 
 I'm an upcoming Software Engineer currently building my skills in **Python, JavaScript,React and web development**. I love creating practical projects that solve real problems — one step at a time.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🩺 Blood Glucose Tracker (Web App)
 A web app designed to help users log and track their blood glucose levels.  
