@@ -1,8 +1,5 @@
 # Hi, I'm Mohamed Salim Agil 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedsalimagil/mohamedsalimagil/main/Assets/logo.svg" alt="Mohamed Salim Agil's Logo" width="600"/>
-</p>
 
 I'm a Software Engineer specializing in Python and full-stack development. I build scalable web applications and practical tools with a focus on clean code and user-centric design.
 
