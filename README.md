@@ -1,6 +1,7 @@
 # Hi, I'm Mohamed Salim Agil 👋
 
 
+
 I'm a Software Engineer specializing in Python and full-stack development. I build scalable web applications and practical tools with a focus on clean code and user-centric design.
 
 ---
@@ -75,10 +76,13 @@ A lightweight task management app that helps users create, organize, update, and
 ---
 
 ### 🩺 Blood Glucose Tracker (Web App)
-A web app designed to help users log and track their blood glucose levels, simulating API calls for dynamic tips.
-* **Tech Stack:** HTML, CSS, JavaScript
-* **Goal:** Expand into a full-featured health tracking platform.
-* [**View Repository**](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
+A client-side application for logging and monitoring blood glucose levels.
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+)
+* **Features:**
+    * **Data Persistence:** Uses browser `localStorage` to save and retrieve all user log entries.
+    * **Dynamic Content:** Fetches helpful tips and information from a client-side JSON "API".
+    * **Responsive Design:** Fully functional interface for both desktop and mobile use.
+* [**Live Demo (Coming Soon)**](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker) | [**View Repository**](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
 
 ---
 
