@@ -10,6 +10,7 @@ A web app designed to help users log and track their blood glucose levels.  
 🔹 Uses a local `tips.json` to simulate an API  
 🔹 Goal: Expand into a full health tracking platform  
 🔗 Repo: [Blood Glucose Tracker](https://github.com/mohamedsalimagil/Blood-Glucose-Tracker)
+🔹 **Live Demo:**:(https://mohamedsalimagil.github.io/Blood-Glucose-Tracker/)
 
 ---
 ### 📝 [TaskZilla Lite](https://github.com/mohamedsalimagil/TaskZilla)
