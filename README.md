@@ -1,6 +1,6 @@
  # Hi, I'm Mohamed Salim Agil 👋
 
-I'm an upcoming Software Engineer currently building my skills in **Python, JavaScript,React and web development**. I love creating practical projects that solve real problems — one step at a time.
+I'm an upcoming Software Engineer currently building my skills in **Python, Flask,JavaScript,React and web development**. I love creating practical projects that solve real problems — one step at a time.
 
 ## Featured Projects
 
