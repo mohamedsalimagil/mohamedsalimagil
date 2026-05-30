@@ -1,10 +1,10 @@
 # Hi, I'm Mohamed Salim Agil 
 
-**Junior Software Engineer**
+**Full-Stack Software Engineer**
 
 I transform complex problems into clean, reliable code. With a background in high-stakes accounting, I bring a unique focus on **precision, logic, and data integrity** to software engineering. Currently building full-stack applications with **React, Flask, and Python**.
 
-🚀 **[View My Portfolio & Live Demos](https://mohamedsalimagil.netlify.app)**
+🚀 **[View My Portfolio & Live Demos](https://portfolio.mohamedsalimagil.dev/)**
 
 ---
 
